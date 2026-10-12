@@ -1,6 +1,6 @@
 # 📊 Power BI Portfolio
  
-This is a list of my PBI projects that are live active reports. Click any report to open it, no login needed.
+This is a list of my live PBI projects. Click any report to open it, no login needed.
  
 | [**HR People Intelligence**][hr] | [**AI Token Spend & Usage**][ai] |
 |:---:|:---:|
