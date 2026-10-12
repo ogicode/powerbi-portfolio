@@ -1,10 +1,10 @@
 # 📊 Power BI Portfolio
  
-Live, interactive reports by **Ognjen Antonic**. Click any report to open it, no login needed.
+THis is a list of my PBI projects that are live active reports. Click any report to open it, no login needed.
  
 | [**HR People Intelligence**][hr] | [**AI Token Spend & Usage**][ai] |
 |:---:|:---:|
-| [![HR](images/hr.png)][hr] | [![AI Token Spend](images/ai-token-spend.png)][ai] |
+| [![HR](images/HR.png)][hr] | [![AI Token Spend](images/AI.png)][ai] |
 | Headcount, demographics & attrition | Spend by team & model, ROI, budget variance |
  
 **Stack:** PostgreSQL (Neon) · Power BI · DAX
