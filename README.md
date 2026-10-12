@@ -7,7 +7,5 @@ THis is a list of my PBI projects that are live active reports. Click any report
 | [![HR](images/HR.png)][hr] | [![AI Token Spend](images/AI.png)][ai] |
 | Headcount, demographics & attrition | Spend by team & model, ROI, budget variance |
  
-**Stack:** PostgreSQL (Neon) · Power BI · DAX
- 
 [hr]: https://app.powerbi.com/view?r=eyJrIjoiYTYzM2FhNGUtMzE0ZS00ODgyLWFiNjUtMjI3NDBhNWI1NTNmIiwidCI6IjAwNDY2ZWI4LWQ2NWItNGY5Ni04YTI3LWU2YWNkNzJhMTRhNiJ9
 [ai]: https://app.powerbi.com/view?r=eyJrIjoiZTYxOWUxNjAtNWEyNS00NDM2LWFkY2MtZWQ1MWVkZTMxMGE5IiwidCI6IjAwNDY2ZWI4LWQ2NWItNGY5Ni04YTI3LWU2YWNkNzJhMTRhNiJ9
